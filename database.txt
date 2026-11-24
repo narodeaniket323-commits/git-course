@@ -1,5 +1,5 @@
 manage the database
-closing the database connection
+closing the mysql database connection
 
 change 1
  change2  in harsh's database
