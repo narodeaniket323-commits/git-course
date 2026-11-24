@@ -6,3 +6,6 @@ create an avatar for user!!
 create a profile for user!!
 
 login and logout
+
+change 1
+change2 harsh's database
